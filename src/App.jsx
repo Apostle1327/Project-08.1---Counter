@@ -31,7 +31,14 @@ function App() {
         type="button"
         onClick={() => setCount(count - 1)}
       ></button>
-      <button id="reset-button" type="button" onClick={() => setCount(0)}>
+      <button
+        id="reset-button"
+        type="button"
+        onClick={() => {
+          setCount(0);
+          localStorage.removeItem("count");
+        }}
+      >
         &#x21bb;
       </button>
     </>
