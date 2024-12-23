@@ -22,21 +22,17 @@ function App() {
     <>
       <h1>A Basic Counter : {count}</h1>
       <button
-        className="button"
+        id="plus-button"
         type="button"
         onClick={() => setCount(count + 1)}
-      >
-        Increase Count
-      </button>
+      ></button>
       <button
-        className="button"
+        id="minus-button"
         type="button"
         onClick={() => setCount(count - 1)}
-      >
-        Decrease Count
-      </button>
-      <button className="button" type="button" onClick={() => setCount(0)}>
-        Reset Count
+      ></button>
+      <button id="reset-button" type="button" onClick={() => setCount(0)}>
+        &#x21bb;
       </button>
     </>
   );
