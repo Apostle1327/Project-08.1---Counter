@@ -43,3 +43,7 @@ You can see a live version of this project [here]("https://github.com/Apostle132
 - **HTML** : Markup structure.
 - **CSS** : Styling and layout.
 - **React + Vite + JSX (JavaScript & XML)** : React + Vite + JSX is a modern stack for building fast web apps. React provides reusable UI components, Vite offers fast development and optimized builds, and JSX allows writing HTML-like code in JavaScript for seamless UI creation. .
+
+## License
+
+This project is licensed under the MIT License.
