@@ -26,14 +26,14 @@ View a live demo of this project [here](https://github.com/Apostle1327/Project-0
 ## Screenshots
 
 <img width="330" alt="Countdown - 1" src="/src/Images/Project 08.1-Counter - 1.png">
-<img width="330" alt="Countdown - 1" src="/src/Images/Project 08.1-Counter - 2.png">
-<img width="330" alt="Countdown - 1" src="/src/Images/Project 08.1-Counter - 3.png">
+<img width="330" alt="Countdown - 2" src="/src/Images/Project 08.1-Counter - 2.png">
+<img width="330" alt="Countdown - 3" src="/src/Images/Project 08.1-Counter - 3.png">
 
 ## Technologies Used
 
 - **HTML** : Markup structure.
 - **CSS** : Styling and layout.
-- **React + Vite + JSX (JavaScript & XML)** : React + Vite + JSX is a modern stack for building fast web apps. React provides reusable UI components, Vite offers fast development and optimized builds, and JSX allows writing HTML-like code in JavaScript for seamless UI creation. .
+- **React + Vite + JSX (JavaScript & XML)** : React + Vite + JSX is a modern stack for building fast web apps. React provides reusable UI components, Vite offers fast development and optimized builds, and JSX allows writing HTML-like code in JavaScript for seamless UI creation.
 
 ## License
 
